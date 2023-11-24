@@ -1,2 +1,1 @@
-# XPowerSense
-By XPS
+XPower
